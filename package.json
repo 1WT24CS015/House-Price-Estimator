@@ -1,6 +1,7 @@
 {
   "name": "estateiq-ai",
   "description": "EstateIQ AI — Bengaluru house price estimation platform.",
+  "homepage": "https://1wt24cs015.github.io/House-Price-Estimator/",
   "private": true,
   "version": "1.0.0",
   "type": "module",
