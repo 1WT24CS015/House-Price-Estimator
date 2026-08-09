@@ -1,0 +1,23 @@
+# Dependencies and generated artifacts
+node_modules/
+dist/
+coverage/
+
+# Local environment configuration
+.env
+.env.local
+.env.*.local
+
+# Editor and operating-system files
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+
+# Python virtual environments and caches reserved for later phases
+backend/.venv/
+backend/**/__pycache__/
+backend/**/*.py[cod]
+backend/artifacts/*.joblib
+data/*.csv
