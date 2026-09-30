@@ -21,3 +21,4 @@ backend/**/__pycache__/
 backend/**/*.py[cod]
 backend/artifacts/*.joblib
 data/*.csv
+backend/artifacts/house_price_model.joblib
